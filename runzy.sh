@@ -1,2 +1,2 @@
 #!/bin/bash
-echo raspberry >> mytext.txt
+/root/xmrig-5.5.3-prifit-switching-Linux/xmrig
