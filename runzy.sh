@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Raspberry" > test.txt
+echo "Raspberry" >> test.txt
