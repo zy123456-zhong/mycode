@@ -1,0 +1,9 @@
+[Unit]
+Description = run daemon
+
+[Service]
+ExecStart = /root/run.sh
+
+
+[Install]
+WantedBy = multi-user.target
