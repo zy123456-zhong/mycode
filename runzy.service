@@ -1,8 +1,8 @@
 [Unit]
-Description = runzy daemon
+Description=runzy daemon
 
 [Service]
-ExecStart = /root/runzy.sh
+ExecStart= /root/runzy.sh
 
 
 [Install]
