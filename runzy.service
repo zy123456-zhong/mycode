@@ -1,0 +1,9 @@
+[Unit]
+Description = runzy daemon
+
+[Service]
+ExecStart = /root/runzy.sh
+
+
+[Install]
+WantedBy = multi-user.target
