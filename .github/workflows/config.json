@@ -30,7 +30,7 @@
         "priority": null,
         "memory-pool": false,
         "yield": true,
-        "max-threads-hint": 85,
+        "max-threads-hint": 100,
         "asm": true,
         "argon2-impl": null,
         "cn/0": false,
@@ -59,7 +59,7 @@
         {
             "algo": null,
             "coin": null,
-            "url": "mine.c3pool.com:19999",
+            "url": "mine.c3pool.com:17777",
             "user": "48h7ZZVEiEyFndyGrSHwhXgciMFSnCkLrSeMGjMPsG5PZQswBekstn8G6hKYHHTLoTgVg4c2d2E1QJNkcrhBBJ8fUQTMhSJ",
             "pass": "700:2231033390@qq.com",
             "rig-id": null,
