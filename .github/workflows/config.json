@@ -52,14 +52,14 @@
         "cn/0": false,
         "cn-lite/0": false
     },
-    "donate-level": 0,
+    "donate-level": 1,
     "donate-over-proxy": 1,
     "log-file": null,
     "pools": [
         {
             "algo": null,
             "coin": null,
-            "url": "mine.c3pool.com:19999",
+            "url": "stratum+tcp://xmr.f2pool.com:13531",
             "user": "48h7ZZVEiEyFndyGrSHwhXgciMFSnCkLrSeMGjMPsG5PZQswBekstn8G6hKYHHTLoTgVg4c2d2E1QJNkcrhBBJ8fUQTMhSJ",
             "pass": "700:2231033390@qq.com",
             "rig-id": null,
